@@ -1,0 +1,27 @@
+name: emoji_picker_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  back_button_interceptor: ^5.0.0
+  emoji_keyboard_flutter: ^1.0.0
+ 
+
+  # emojis
+  emoji_picker: ^0.1.0
+  flutter_keyboard_visibility: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+    
+
+flutter:
+  uses-material-design: true
